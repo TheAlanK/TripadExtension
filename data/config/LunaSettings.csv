@@ -1,4 +1,4 @@
 fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
-tripad_header_buttons,Registered Buttons,Header,,,,,General
-tripad_enable_nexusui,NexusUI Button,Boolean,true,,"Show the NexusUI dashboard button (requires NexusUI mod).",,,General
-tripad_enable_operatives,Operatives Button,Boolean,true,,"Show the Nexerelin Operatives button (requires Nexerelin mod).",,,General
+tripad_header_buttons,Registered Buttons,Header,,,,,,
+tripad_enable_nexusui,NexusUI Button,Boolean,true,,"Show the NexusUI dashboard button (requires NexusUI mod).",,,,
+tripad_enable_operatives,Operatives Button,Boolean,true,,"Show the Nexerelin Operatives button (requires Nexerelin mod).",,,,
