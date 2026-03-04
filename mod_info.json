@@ -1,0 +1,14 @@
+{
+  "id": "tripad_extension",
+  "name": "Tripad Extension",
+  "author": "Alan Kocinba",
+  "version": "1.0.0",
+  "description": "Modular floating button framework for the campaign map. Mods can register draggable buttons that players can lock together for group movement.",
+  "gameVersion": "0.98a-RC7",
+  "modPlugin": "com.tripadextension.TripadModPlugin",
+  "jars": ["jars/TripadExtension.jar"],
+  "dependencies": [
+    {"id": "lw_lazylib", "name": "LazyLib"},
+    {"id": "lunalib", "name": "LunaLib"}
+  ]
+}
