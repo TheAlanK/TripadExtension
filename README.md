@@ -20,7 +20,6 @@ A **modular floating button framework** for [Starsector](https://fractalsoftwork
 | Button | Requires | Description |
 |--------|----------|-------------|
 | **NexusUI** | [NexusUI](https://github.com/TheAlanK/NexusUI) | Opens the NexusUI dashboard |
-| **Operatives** | [Nexerelin](https://fractalsoftworks.com/forum/index.php?topic=9175.0) | Opens the Nexerelin agents/operatives intel panel |
 
 ## Installation
 
